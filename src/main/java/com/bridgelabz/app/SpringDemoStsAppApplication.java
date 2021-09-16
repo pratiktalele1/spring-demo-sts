@@ -8,7 +8,7 @@ public class SpringDemoStsAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringDemoStsAppApplication.class, args);
-		
+		System.out.println("Hello from BridgeLabz");
 	}
 
 }
